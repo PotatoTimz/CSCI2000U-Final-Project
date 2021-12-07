@@ -67,11 +67,6 @@ Overall we are satisfied with our analysis of the dataset and feel that we can c
 
 For a more in-depth look at the report plus the methodology in determining the results, visit the full report in the notebook. Instructions are added below.
 
-## Acknowledgements
-This project was submitted as the final course project for CSCI 2000U “Scientific 
-Data Analysis” during Fall 2021. The authors certify that the work in this 
-repository is original and that all appropriate resources are rightfully cited.
-
 ## Notebook Report Instructions
 In order for the report to run, please follow the instructions below.
 1. Check required Files (must be in the same directory):
@@ -81,3 +76,8 @@ In order for the report to run, please follow the instructions below.
 - GeneralEsportData.csv
 
 2. Open Final_Project.ipynb and run the notebook one cell at a time. Wait for each cell to initialize their output.
+
+## Acknowledgements
+This project was submitted as the final course project for CSCI 2000U “Scientific 
+Data Analysis” during Fall 2021. The authors certify that the work in this 
+repository is original and that all appropriate resources are rightfully cited.
