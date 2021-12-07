@@ -23,17 +23,17 @@ The summarized report aims to answer a few questions.
 A fairly common question is how big the professional scene has grown over the years. A metric we can use to determine this is by getting all the player count for each genre. Afterwards, we can go into a game by game basis.
 
 There are 11 genres that the Esports envelops (abbreviation legends as follows):
-1)Battle Royale = BR
-2)Collectible Card Game = CCG
-3)Fighting Game = FG
-4)First-Person Shooter = FPS
-5)Multiplayer Online Battle Areana = MOBA
-6)Puzzle Game = PG
-7)Racing = Ra
-8)Role-Playing Game = RPG
-9)Sports = Sp
-10)Strategy = St
-11)Third-Person Shooter = TPS
+1) Battle Royale = BR <br>
+2) Collectible Card Game = CCG<br>
+3) Fighting Game = FG<br>
+4) First-Person Shooter = FPS<br>
+5) Multiplayer Online Battle Areana = MOBA<br>
+6) Puzzle Game = PG<br>
+7) Racing = Ra<br>
+8) Role-Playing Game = RPG<br>
+9) Sports = Sp<br>
+10) Strategy = St<br>
+11) Third-Person Shooter = TPS<br>
 
 We then check what is the distrubution of prize money throughout the two decades: <br>
 ![Imgur](https://i.imgur.com/Zp5bJiT.png)
